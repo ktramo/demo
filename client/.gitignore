@@ -1,0 +1,35 @@
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+.apdisk
+
+# Windows
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+
+platforms/android/.gradle
+platforms/android/build
+platforms/android/assets/www
+platforms/android/local.properties
+platforms/android/CordovaLib/build
+platforms/android/CordovaLib/gen
+platforms/android/CordovaLib/local.properties
+
+node_modules/
+
+.idea/
